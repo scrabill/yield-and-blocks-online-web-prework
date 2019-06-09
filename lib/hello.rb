@@ -1,4 +1,7 @@
 def hello_t(array)
+  if block_given?
+  else
+
   i = 0
 
   while i < array.length
