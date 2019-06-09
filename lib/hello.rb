@@ -11,6 +11,7 @@ def hello_t(array)
     array
 
   else
+    puts
 
 
 end
